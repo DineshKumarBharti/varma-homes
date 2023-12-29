@@ -112,4 +112,9 @@ header .dropdown-menu .dropdown-item::before{
     100%{background-image:url(blog-2.jpg);
     }
 }
+.contact{
+    height: 200px;
+    background-image: url(../img/bg2.jpg);
+    background-size: cover;
+}
 
